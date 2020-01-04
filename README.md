@@ -15,5 +15,5 @@
  
 #### TUTORIAL SOURCE: 
 
-1. https://www.youtube.com/watch?v=bbp_849-RZ4
-2. https://www.youtube.com/playlist?list=PLwkyDFh-TwzL5pQseZGHY0DgVl2-dECif
+1. https://www.youtube.com/watch?v=bbp_849-RZ4 (ProgrammingKnowledge)
+2. https://www.youtube.com/playlist?list=PLwkyDFh-TwzL5pQseZGHY0DgVl2-dECif (Automation Experts)
