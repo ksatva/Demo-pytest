@@ -5,7 +5,7 @@
 #### iPython notebooks:
      
      1. _Learning_pytest.ipynb: Python unit testing framework (pytest)
-     2. _Learning_APItesting.ipynb : API testing with python 
+     2. _Learning_APItesting.ipynb: API testing with python 
       
  
  
